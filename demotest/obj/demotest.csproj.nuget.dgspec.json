@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S537156\\Documents\\Visual Studio 2019\\dotnet\\demotest\\demotest\\demotest.csproj": {}
+    "C:\\Users\\S537156\\Desktop\\dotnet-mvc-with-ef\\demotest\\demotest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S537156\\Documents\\Visual Studio 2019\\dotnet\\demotest\\demotest\\demotest.csproj": {
+    "C:\\Users\\S537156\\Desktop\\dotnet-mvc-with-ef\\demotest\\demotest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S537156\\Documents\\Visual Studio 2019\\dotnet\\demotest\\demotest\\demotest.csproj",
+        "projectUniqueName": "C:\\Users\\S537156\\Desktop\\dotnet-mvc-with-ef\\demotest\\demotest.csproj",
         "projectName": "demotest",
-        "projectPath": "C:\\Users\\S537156\\Documents\\Visual Studio 2019\\dotnet\\demotest\\demotest\\demotest.csproj",
+        "projectPath": "C:\\Users\\S537156\\Desktop\\dotnet-mvc-with-ef\\demotest\\demotest.csproj",
         "packagesPath": "C:\\Users\\S537156\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S537156\\Documents\\Visual Studio 2019\\dotnet\\demotest\\demotest\\obj\\",
+        "outputPath": "C:\\Users\\S537156\\Desktop\\dotnet-mvc-with-ef\\demotest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\S537156\\AppData\\Roaming\\NuGet\\NuGet.Config",
